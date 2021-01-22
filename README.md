@@ -5,6 +5,7 @@ OpenTTD Scenario on a 64 by 64 map called Mini Empire Builder
 
         1. There are 2 towns: Rennton and Wrahill
         2. One of each industries (except for Oilrig, because there is not much water on the map)
+        3. You will need to fund your own Bank
 
 ### Screenshot
 
